@@ -6,7 +6,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --port 4100 --host 0.0.0.0",
-    "build": "ng build ng-image-fullscreen-view --configuration production --prod",
+    "build": "ng build ng-image-fullscreen-view --configuration production",
     "build:watch": "ng build ng-image-fullscreen-view --watch",
     "test": "ng test",
     "lint": "ng lint",
